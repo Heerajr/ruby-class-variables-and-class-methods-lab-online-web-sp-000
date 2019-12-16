@@ -49,5 +49,6 @@ class Song
         artistCount[artist]=1
       end
     end
+  return artistCount
   end
 end
