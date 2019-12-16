@@ -32,7 +32,7 @@ class Song
     genreCount = {}
     @@genres.each do |genre|
       if genreCount[genre]
-        key=>value+1
+        key=>value=+1
       else
         genreCount[genre]=1
       end
