@@ -48,5 +48,6 @@ class Song
       else
         artistCount[artist]=1
       end
+    end
   end
 end
