@@ -34,9 +34,10 @@ class Song
       if genreCount[genre]
 
       else
+        "genre" => " "
 
-
-    end
+      end
+  end
     return genreCount
   end
 end
